@@ -1,0 +1,25 @@
+.certificate{
+    position: absolute;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Tres columnas de igual tamaño */
+    grid-gap: 10px;
+    justify-items: center;
+    width: 1900px;
+    top: 5000px;
+}
+
+.searchCertificates{
+    position: absolute;
+    width: 607px;
+    height: 44px;
+    left: calc(50% - 607px/2 );
+    top: 4852px;
+
+    border-radius: 20px;
+
+    font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 37px;
+  }

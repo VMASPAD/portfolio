@@ -1,0 +1,12 @@
+.contact{
+    position: absolute;
+    top: 5500px;
+}
+
+form {
+    display: grid !important;
+    justify-items: center !important    ;
+}
+
+.top{
+}
