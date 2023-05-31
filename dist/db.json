@@ -3,21 +3,21 @@
     "id": 1,
     "title": "Articulo 1",
     "description": "Descripción del artículo 1",
-    "img": "./src/assets/dtaw.png",
+    "img": "./assets/dtaw.png",
     "type": "BackEnd"
   },
   {
     "id": 2,
     "title": "Articulo 2",
     "description": "Descripción del artículo 2",
-    "img": "./src/assets/hestia.jpg",
+    "img": "./assets/hestia.jpg",
     "type": "FrontEnd"
   },
   {
     "id": 3,
     "title": "Articulo 3",
     "description": "Descripción del artículo 3",
-    "img": "./src/assets/tv.png",
+    "img": "./assets/tv.png",
     "type": "FullStack"
   }
 ]

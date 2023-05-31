@@ -1,23 +1,34 @@
 [
   {
     "id": 1,
-    "title": "Articulo 1",
-    "description": "Descripción del artículo 1",
+    "title": "Pagina web de Libros",
+    "description": "La función de esta pagina, es de vender de forma rápida, su libro, curso, etc. Sirve para promocionar su curso digital o elemento digital, con un simple clic puede llevarlo a la pagina del producto",
     "img": "./src/assets/dtaw.png",
-    "type": "BackEnd"
+    "web":"https://inversionesconintel.000webhostapp.com/",
+    "type": "FrontEnd"
   },
   {
     "id": 2,
-    "title": "Articulo 2",
-    "description": "Descripción del artículo 2",
+    "title": "Hestia",
+    "description": "El uso adecuado adecuado de esta pagina seria para vender de forma fácil o puedan ver tus productos con mas información",
     "img": "./src/assets/hestia.jpg",
+    "web":"https://hestiarrll.com/",
     "type": "FrontEnd"
   },
   {
     "id": 3,
-    "title": "Articulo 3",
-    "description": "Descripción del artículo 3",
+    "title": "T&V",
+    "description": "El uso adecuado adecuado de esta pagina seria para promocionar una pagina de un token o el de un juego",
     "img": "./src/assets/tv.png",
-    "type": "FullStack"
+    "web":"https://vmaspad.github.io/backup/",
+    "type": "FrontEnd"
+  },
+  {
+    "id": 4,
+    "title": "Pagina Para ventas de Materiales",
+    "description": "La función de esta pagina, es de vender de forma rápida y dar una demostración de los productos que quieran vender (no incluye forma de pago), su función es mas que nada para brindar información sobre lo que quieran ver",
+    "img": "./src/assets/motors.png",
+    "web":"https://motorsb.000webhostapp.com/",
+    "type": "Desarrollo Web"
   }
 ]

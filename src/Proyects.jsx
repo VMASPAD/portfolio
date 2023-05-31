@@ -38,8 +38,8 @@ function Proyects() {
 <div className='articlesProyects' id='Proyectos'>
   {filteredArticles.length > 0
     ? filteredArticles.map((article) => (
-        <div key={article.id} className='card w-96 h-78 bg-gradient-to-b from-base-100 to-transparent shadow-2xl colorCard'>
-        <figure>
+      <div key={article.id} className='card w-96 h-78 bg-gradient-to-b from-base-100 to-transparent shadow-2xl colorCard'>
+          <figure>
             <img src={article.img}></img>
           </figure>
           <div className="card-body">
@@ -48,7 +48,9 @@ function Proyects() {
             <div className="card-actions justify-end">
               <div className="badge badge-outline">{article.type}</div>
             </div>
+              <a href={article.web}  className="btn btn-accent btn-outline" ><button>Ver</button></a>
           </div>
+
         </div>
       ))
     : articles.map((article) => (
@@ -62,7 +64,7 @@ function Proyects() {
             <div className="card-actions justify-end">
               <div className="badge badge-outline">{article.type}</div>
             </div>
-              <button className="btn btn-accent btn-outline">Ver</button>
+              <a href={article.web}  className="btn btn-accent btn-outline" ><button>Ver</button></a>
           </div>
 
         </div>

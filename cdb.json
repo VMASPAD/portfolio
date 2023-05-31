@@ -1,30 +1,219 @@
 [
-    {
-      "id": 1,
-      "title": "Elements IA",
-      "descripcion": "Descripción del certificado 1",
-      "img":"./src/assets/certificate1.png",
-      "type": "IA"
-    },
-    {
-      "id": 2,
-      "title": "CoderHouse JavaScript",
-      "descripcion": "Descripción del certificado 2",
-      "img":"./src/assets/certificate2.png",
-      "type": "CoderHouse"
-    },
-    {
-    "id": 3,
-    "title": "FrontEnd Svelte",
-    "descripcion": "Descripción del certificado 1",
-    "img":"./src/assets/certificate3.jpg",
+  {
+    "id": 1,
+    "title": "JavaScript estandarizado con ESlint y Prettier",
+    "description": "Implementa y configura las extensiones Eslint y Prettier para que todos los programadores de un proyecto sigan las mismas practicas en su codigo.",
+    "img": "./src/assets/certificates/certificate(27).jpg",
     "type": "Edteam"
-    },
-    {
-    "id": 4,
-    "title": "CoderHouse Desarrollo Web",
-    "descripcion": "Descripción del certificado 1",
-    "img":"./src/assets/certificate4.jpg",
+  },
+  {
+    "id": 2,
+    "title": "JavaScript",
+    "description": "Aprendizaje del lenguaje y sus usos practicos en desarrolloWeb.",
+    "img": "./src/assets/certificates/certificate(28).jpg",
     "type": "CoderHouse"
-    }
-  ]
+  },
+  {
+    "id": 3,
+    "title": "Creacion de APIs con Laravel",
+    "description": "Aprende a crear APIs con Laravel, uno de los frameworks más eficientes y más usado por los programadores PHP.",
+    "img": "./src/assets/certificates/certificate(29).jpg",
+    "type": "Edteam"
+  },
+  {
+    "id": 4,
+    "title": "Elements IA",
+    "description": "Aprendizaje del funcionamiento de las IA o teoria del machine learning",
+    "img": "./src/assets/certificates/certificate(30).jpg",
+    "type": "IA"
+  },
+  {
+    "id": 5,
+    "title": "Creacion de API REST con Node.js",
+    "description": "Aprende a crear APIs con los módulos Built-in de Node.js y con el framework Express JS.",
+    "img": "./src/assets/certificates/certificate(31).jpg",
+    "type": "Edteam"
+  },
+  {
+    "id": 6,
+    "title": "HTML Y CSS",
+    "description": "Aprendizaje HTML y CSS",
+    "img": "./src/assets/certificates/certificate(1).jpg",
+    "type": "OpenBootCamp"
+  },
+  {
+    "id": 7,
+    "title": "Sapper - SSR con Svelte",
+    "description": "Si te gustó crear apps con Svelte, este curso te gustará aún más, porque salió un nuevo framework llamado Sapper orientado al paradigma SSR, que trabaja de la mano con Svelte para crear apps con una hermosa experiencia de desarrollo.",
+    "img": "./src/assets/certificates/certificate(2).jpg",
+    "type": "Edteam"
+  },
+  {
+    "id": 8,
+    "title": "Svelte desde cero",
+    "description": "Desarrolla tus apps con la librería más reciente que utiliza un enfoque distinto al momento de crear interfaces de usuario.",
+    "img": "./src/assets/certificates/certificate(3).jpg",
+    "type": "Edteam"
+  },
+  {
+    "id": 9,
+    "title": "Desarrollo Web",
+    "description": "Primeros pasos en desarrollo web.",
+    "img": "./src/assets/certificates/certificate(4).jpg",
+    "type": "CoderHouse"
+  },
+  {
+    "id": 10,
+    "title": "Crea Aplicaciones de escritorio con ElectronJs",
+    "description": "Domina Electron, el framework que te permite crear aplicaciones de escritorio usando JavaScript, HTML y CSS.",
+    "img": "./src/assets/certificates/certificate(5).jpg",
+    "type": "Edteam"
+  },
+  {
+    "id": 11,
+    "title": "Flutter desde Cero (2023)",
+    "description": "Domina la última versión de Flutter, el SDK de Google creado para desarrollar aplicaciones móviles multiplataforma con rendimiento nativo.",
+    "img": "./src/assets/certificates/certificate(6).jpg",
+    "type": "Edteam"
+  },
+  {
+    "id": 12,
+    "title": "Crea un clon de Twitter con MERN",
+    "description": "Crea un clon funcional de Twitter con MongoDB, Express, React y Node y súbelo a la nube.",
+    "img": "./src/assets/certificates/certificate(7).jpg",
+    "type": "Edteam"
+  },
+  {
+    "id": 13,
+    "title": "Desarrollo frontend con Svelte",
+    "description": "Crea tu primer proyecto con Scelte, el framework JavaScript que cambia el paradigma del desarrollo FrontEnd",
+    "img": "./src/assets/certificates/certificate(8).jpg",
+    "type": "Edteam"
+  },
+  {
+    "id": 14,
+    "title": "JavaScript desde cero",
+    "description": "Domina las bases del único lenguaje que te da la oportunidad de trabajar del lado del cliente y del lado del servidor.",
+    "img": "./src/assets/certificates/certificate(9).jpg",
+    "type": "Edteam"
+  },
+  {
+    "id": 15,
+    "title": "Express desde cero",
+    "description": "Aprende a configurar tu servidor web con el framework mas popular de Noje.Js",
+    "img": "./src/assets/certificates/certificate(10).jpg",
+    "type": "Edteam"
+  },
+  {
+    "id": 16,
+    "title": "C# desde Cero",
+    "description": "Aprende a programar para web, móvil, escritorio o videojuegos con el lenguaje número 1 de Microsoft.",
+    "img": "./src/assets/certificates/certificate(11).jpg",
+    "type": ""
+  },
+  {
+    "id": 17,
+    "title": "Bases de datos NoSQL con MongoDB",
+    "description": "Aprende MongoDB, uno de los sistemas de bases de datos NoSQL más usados en el mundo.",
+    "img": "./src/assets/certificates/certificate(12).jpg",
+    "type": "Edteam"
+  },
+  {
+    "id": 18,
+    "title": "Deno desde cero, la alternativa de NodeJs",
+    "description": "Aprende a ejecutar JavaScript y TypeScript del lado del servidor de forma más rápida, segura y limpia usando Deno.",
+    "img": "./src/assets/certificates/certificate(13).jpg",
+    "type": "Edteam"
+  },
+  {
+    "id": 19,
+    "title": "BackEnd con JavaScript",
+    "description": "Conviertete en programador fullstack aprendiendo JavaScript del lado del servidor",
+    "img": "./src/assets/certificates/certificate(14).jpg",
+    "type": "Edteam"
+  },
+  {
+    "id": 20,
+    "title": "NodeJs desde cero",
+    "description": "Aprende a crear aplicaciones con JavaScript en el lado del servidor",
+    "img": "./src/assets/certificates/certificate(15).jpg",
+    "type": "Edteam"
+  },
+  {
+    "id": 21,
+    "title": "Ciberseguridad en el teletrabajo (2 horas)",
+    "description": "Ciberseguridad la hora de trabajar a distancia",
+    "img": "./src/assets/certificates/certificate(16).jpg",
+    "type": "Google Activate"
+  },
+  {
+    "id": 22,
+    "title": "Digitalización paso a paso tu negocio con herramientas de google",
+    "description": "Digitalización de su comercio con herramientas de google",
+    "img": "./src/assets/certificates/certificate(17).jpg",
+    "type": "Google Activate"
+  },
+  {
+    "id": 23,
+    "title": "Fundamentos de Marketing Digital",
+    "description": "Aprendizaje del marketing digital en los negocios",
+    "img": "./src/assets/certificates/certificate(18).jpg",
+    "type": "Google Activate"
+  },
+  {
+    "id": 24,
+    "title": "Python para no matematicos: De 0 hasta reconocimiento facial",
+    "description": "Conocimientos base de python hasta avanzados en el reconocimiento.",
+    "img": "./src/assets/certificates/certificate(19).jpg",
+    "type": "Udemy"
+  },
+  {
+    "id": 25,
+    "title": "Nest: Desarrollo backend escalabre con Node",
+    "description": "Desarrollo de backend, con el framework Nest",
+    "img": "./src/assets/certificates/certificate(20).jpg",
+    "type": "Udemy"
+  },
+  {
+    "id": 26,
+    "title": "Aprende a desarrollar ETL usando Pentaho desde Cero",
+    "description": "Aprende a desarrollar ETL usando Pentaho Data Integration(PDI) y automatizar procesos en distintas bases de datos.",
+    "img": "./src/assets/certificates/certificate(21).jpg",
+    "type": "Udemy"
+  },
+  {
+    "id": 27,
+    "title": "CSS, Bootstrap, JavaScript And PHP Stack Complete Course",
+    "description": "Curso completo de CSS, Bootstrap y JavaScript y PHP Frontend y Backend",
+    "img": "./src/assets/certificates/certificate(22).jpg",
+    "type": "Udemy"
+  },
+  {
+    "id": 28,
+    "title": "ElectronJS y React JS: Creando un Spotify",
+    "description": "Desarrolla una App de Escritorio como Spotify usando React JS, Electron JS, Firebase y SASS",
+    "img": "./src/assets/certificates/certificate(23).jpg",
+    "type": "Udemy"
+  },
+  {
+    "id": 29,
+    "title": "MongoDB: Aprende desde cero a experto",
+    "description": "Vuelvete un experto en Bases de Datos no relacionales aprendiendo de una manera fácil y sencilla.",
+    "img": "./src/assets/certificates/certificate(24).jpg",
+    "type": "Udemy"
+  },
+  {
+    "id": 30,
+    "title": "Crea una Api REST FULL completa con PHP NATIVO",
+    "description": "Creacion de una api rest full con php",
+    "img": "./src/assets/certificates/certificate(25).jpg",
+    "type": "Udemy"
+  },
+  {
+    "id": 31,
+    "title": "Practical Nextjs & React - Build a real WebApp with NextJs",
+    "description": "Aprendiendizaje de Next con React en una appweb",
+    "img": "./src/assets/certificates/certificate(26).jpg",
+    "type": "Udemy"
+  }
+]

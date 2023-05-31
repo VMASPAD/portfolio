@@ -33,7 +33,7 @@ function ContactForm() {
 
   return (
 
-  <div className='contact'>
+  <div className='contact' id="contact">
     <form onSubmit={handleSubmit} className='card w-96 bg-neutral-content text-primary-content' >
       <label style={{margin:"20px "}}>
         <input placeholder="Su nombre" type="text" style={{color:"white"}} value={name} onChange={(e) => setName(e.target.value)} className="top input input-bordered input-primary max-w-xl max-w-xs bg-base-300"/>

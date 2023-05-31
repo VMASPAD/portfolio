@@ -1,12 +1,9 @@
 .contact{
-    position: absolute;
-    top: 5500px;
+    position: relative;
+    top: 78in;
 }
 
 form {
     display: grid !important;
     justify-items: center !important    ;
-}
-
-.top{
 }

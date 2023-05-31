@@ -10,14 +10,14 @@ function Present ()  {
     
         return (
             <>
-                    <header>
-      <nav className=''>
+    <header>
+      <nav id='inicio'>
         <ul className="menu menu-vertical lg:menu-horizontal bg-base-100 p-2 rounded-box">
-          <li><a>Inicio</a></li>
-          <li><a>Sobre Mi</a></li>
-          <li><a>Proyectos</a></li>
-          <li><a>Certificados</a></li>
-          <li><a>Contacto</a></li>
+          <li><a href="#inicio">Inicio</a></li>
+          <li><a href="#welcome">Sobre Mi</a></li> 
+          <li><a href="#Proyectos">Proyectos</a></li>
+          <li><a href="#Certificadoss">Certificados</a></li>
+          <li><a href="#contact">Contacto</a></li>
         </ul>
       </nav>
       <img className='rec3' src={rec3}></img>

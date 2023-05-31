@@ -13,7 +13,7 @@ function App() {
     <>
       <Present></Present>
       <main>
-        <div className="presentationMain ">
+        <div className="presentationMain">
           <img className="profileMain" src={profileMain}></img>
           <h4 className="tittleName">Soy Tomas Avila</h4>
           <h3 className="descriptionName">
@@ -31,7 +31,7 @@ function App() {
 
         <Proyects></Proyects>
 
-        <section>
+        <section style={{position:"relative"}}>
           <Certificate></Certificate>
         </section>
       </main>

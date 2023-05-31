@@ -6,6 +6,7 @@
     justify-items: center;
     width: 1900px;
     top: 5000px;
+    grid-auto-rows: min-content;
 }
 
 .searchCertificates{
